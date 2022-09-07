@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="with=device-width, initial-scale=1.0">
+        <meta charset="UTF-8">
+        <title>Jalo Taksi</title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;600;700&display=swap"rel="stylesheet">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+    <body>
+            <section class="header">
+                <nav>
+                    <a href="index.html"><img src="images/jalotaksi_logo.png"></a>
+                    <div class="nav-links" id="navlinks">
+                        <i class="fa-solid fa-xmark-large" onclick="hidemenu()"></i>
+                        <ul>
+                            <li><a href="ETUSIVU">ETUSIVU</a></li>
+                            <li><a href="#lisätietoa">HINNASTO</a></li>
+                            <li><a href="#lisätietoa">YHTEYDENOTTO</a></li>
+                            <li><a href="#alueemme">ALUEEMME</a></li>
+                        </ul>
+                    </div>
+                    <i class="fa-solid fa-bars" onclick="showmenu()"></i>
+                </nav>
+<div class="text-box">
+    <h1>Luotettavin taksiyritys Turun alueella.</h1>
+    <h3>Tilaa taksi jo tänään.</h3>
+        <h3>Numerosta</h3>
+       <b><a href="tel:0457521126" class="numero">045-752 1126</a></b>
+</div>
+
+
+           
+
+</section>
+<!---Course-->
+
+<section class="Course">
+<h1>Lisätietoa</h1>
+<h1 id="lisätietoa"></h1>
+
+<div class="row">
+    <div class="Course-col">
+        <h3>Palvelumme</h3>
+        <p>VIP kuljetukset</p>
+        <p>Yrityskuljetukset</p>
+        <p>Kela kuljetukset</p>
+        <p>Tavarakuljetukset</p>
+        <br>
+        <p>Mikäli jokin puuttuu listalta, olethan yhteydessä. Pyrimme järjestämään tarpeillesi sopivan ratkaisun.</p>
+</div>
+    <div class="Course-col">
+        <h3>Hinnasto</h3>
+        <p>Lähtötaksa</p>
+        <p>Arkisin klo 06:00-18:00 4,50€</p>
+        <p>Klo 18:00-6:00 ja pyhinä	7,50 €</p>
+        <p>EI ENNAKKOVARAUSMAKSUA</p>
+        <br>
+        <p>Matkataksa 1-4 henkilöä</p>
+        <p>Kilometriveloitus 1,00 € / km</p>
+        <p>Aikaveloitus 1,00 € / min</p>
+</div>
+    <div class="Course-col">
+        <h3>Yhteydenotto</h3>
+        <p>Soittamalla</p>
+        <p>Tekstiviestillä</p>
+        <p>Whatsapilla</p>
+        <p>Sähköpostilla</p>
+        <h5>info[at] jalotaksi.fi</h5>
+</div>
+</div>
+</section>
+
+
+<!----campus-->
+<selction class="campus">
+    <h1 id="alueemme"></h1>
+<h1>Toiminta alueemme</h1>
+<p>Toimimme muunmuassa näillä alueilla.</p>
+
+<div class="row">
+<div class="campus-col">
+<img src="images/Turku.jpg">
+<div class="layer">
+    <h3>Turku</h3>
+    </div>
+</div>
+<div class="campus-col">
+    <img src="images/naantali.jpg">
+    <div class="layer">
+        <h3>Naantali</h3>
+        </div>
+    </div>
+    <div class="campus-col">
+        <img src="images/raisio.jpg">
+        <div class="layer">
+            <h3>Raisio</h3>
+            </div>
+        </div>
+</div>
+
+</selction>
+
+
+<!------Javascript for toggle menu----- -->
+<script>
+    var navlinks = document.getElementById("navlinks");
+function showmenu(){
+    navlinks.style.right = "0";
+}
+function hidemenu(){
+    navlinks.style.right = "200px";
+}
+
+
+</script>
+    </body>
+</html
