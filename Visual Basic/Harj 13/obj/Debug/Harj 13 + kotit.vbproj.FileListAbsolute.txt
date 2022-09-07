@@ -1,0 +1,12 @@
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Johdatus ohjelmointiin 1\Koodit\Harj 13 + kotit\bin\Debug\Harj 13 + kotit.exe.config
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Johdatus ohjelmointiin 1\Koodit\Harj 13 + kotit\bin\Debug\Harj 13 + kotit.exe
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Johdatus ohjelmointiin 1\Koodit\Harj 13 + kotit\bin\Debug\Harj 13 + kotit.pdb
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Johdatus ohjelmointiin 1\Koodit\Harj 13 + kotit\bin\Debug\Harj 13 + kotit.xml
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Johdatus ohjelmointiin 1\Koodit\Harj 13 + kotit\obj\Debug\Harj 13 + kotit.vbproj.AssemblyReference.cache
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Johdatus ohjelmointiin 1\Koodit\Harj 13 + kotit\obj\Debug\Harj_13___kotit.Form1.resources
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Johdatus ohjelmointiin 1\Koodit\Harj 13 + kotit\obj\Debug\Harj_13___kotit.Resources.resources
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Johdatus ohjelmointiin 1\Koodit\Harj 13 + kotit\obj\Debug\Harj 13 + kotit.vbproj.GenerateResource.cache
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Johdatus ohjelmointiin 1\Koodit\Harj 13 + kotit\obj\Debug\Harj 13 + kotit.vbproj.CoreCompileInputs.cache
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Johdatus ohjelmointiin 1\Koodit\Harj 13 + kotit\obj\Debug\Harj 13 + kotit.exe
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Johdatus ohjelmointiin 1\Koodit\Harj 13 + kotit\obj\Debug\Harj 13 + kotit.xml
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Johdatus ohjelmointiin 1\Koodit\Harj 13 + kotit\obj\Debug\Harj 13 + kotit.pdb
