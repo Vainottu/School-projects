@@ -1,0 +1,12 @@
+Y:\Koulujutut\Johdatus ohjelmointiin 1\Koodit\koodi1\bin\Debug\koodi1.exe.config
+Y:\Koulujutut\Johdatus ohjelmointiin 1\Koodit\koodi1\bin\Debug\koodi1.exe
+Y:\Koulujutut\Johdatus ohjelmointiin 1\Koodit\koodi1\bin\Debug\koodi1.pdb
+Y:\Koulujutut\Johdatus ohjelmointiin 1\Koodit\koodi1\bin\Debug\koodi1.xml
+Y:\Koulujutut\Johdatus ohjelmointiin 1\Koodit\koodi1\obj\Debug\koodi1.vbproj.AssemblyReference.cache
+Y:\Koulujutut\Johdatus ohjelmointiin 1\Koodit\koodi1\obj\Debug\koodi1.Form1.resources
+Y:\Koulujutut\Johdatus ohjelmointiin 1\Koodit\koodi1\obj\Debug\koodi1.Resources.resources
+Y:\Koulujutut\Johdatus ohjelmointiin 1\Koodit\koodi1\obj\Debug\koodi1.vbproj.GenerateResource.cache
+Y:\Koulujutut\Johdatus ohjelmointiin 1\Koodit\koodi1\obj\Debug\koodi1.vbproj.CoreCompileInputs.cache
+Y:\Koulujutut\Johdatus ohjelmointiin 1\Koodit\koodi1\obj\Debug\koodi1.exe
+Y:\Koulujutut\Johdatus ohjelmointiin 1\Koodit\koodi1\obj\Debug\koodi1.xml
+Y:\Koulujutut\Johdatus ohjelmointiin 1\Koodit\koodi1\obj\Debug\koodi1.pdb
