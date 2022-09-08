@@ -1,0 +1,12 @@
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Johdatus ohjelmointiin 1\Koodit\Harjoitus 15, tiedoston käsittely\bin\Debug\Harjoitus 15, tiedoston käsittely.exe.config
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Johdatus ohjelmointiin 1\Koodit\Harjoitus 15, tiedoston käsittely\bin\Debug\Harjoitus 15, tiedoston käsittely.exe
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Johdatus ohjelmointiin 1\Koodit\Harjoitus 15, tiedoston käsittely\bin\Debug\Harjoitus 15, tiedoston käsittely.pdb
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Johdatus ohjelmointiin 1\Koodit\Harjoitus 15, tiedoston käsittely\bin\Debug\Harjoitus 15, tiedoston käsittely.xml
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Johdatus ohjelmointiin 1\Koodit\Harjoitus 15, tiedoston käsittely\obj\Debug\Harjoitus 15, tiedoston käsittely.vbproj.AssemblyReference.cache
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Johdatus ohjelmointiin 1\Koodit\Harjoitus 15, tiedoston käsittely\obj\Debug\Harjoitus_15__tiedoston_käsittely.Form1.resources
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Johdatus ohjelmointiin 1\Koodit\Harjoitus 15, tiedoston käsittely\obj\Debug\Harjoitus_15__tiedoston_käsittely.Resources.resources
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Johdatus ohjelmointiin 1\Koodit\Harjoitus 15, tiedoston käsittely\obj\Debug\Harjoitus 15, tiedoston käsittely.vbproj.GenerateResource.cache
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Johdatus ohjelmointiin 1\Koodit\Harjoitus 15, tiedoston käsittely\obj\Debug\Harjoitus 15, tiedoston käsittely.vbproj.CoreCompileInputs.cache
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Johdatus ohjelmointiin 1\Koodit\Harjoitus 15, tiedoston käsittely\obj\Debug\Harjoitus 15, tiedoston käsittely.exe
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Johdatus ohjelmointiin 1\Koodit\Harjoitus 15, tiedoston käsittely\obj\Debug\Harjoitus 15, tiedoston käsittely.xml
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Johdatus ohjelmointiin 1\Koodit\Harjoitus 15, tiedoston käsittely\obj\Debug\Harjoitus 15, tiedoston käsittely.pdb

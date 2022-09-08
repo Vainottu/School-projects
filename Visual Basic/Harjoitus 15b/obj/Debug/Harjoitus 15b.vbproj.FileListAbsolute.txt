@@ -1,0 +1,12 @@
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Johdatus ohjelmointiin 1\Koodit\Harjoitus 15b\bin\Debug\Harjoitus 15b.exe.config
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Johdatus ohjelmointiin 1\Koodit\Harjoitus 15b\bin\Debug\Harjoitus 15b.exe
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Johdatus ohjelmointiin 1\Koodit\Harjoitus 15b\bin\Debug\Harjoitus 15b.pdb
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Johdatus ohjelmointiin 1\Koodit\Harjoitus 15b\bin\Debug\Harjoitus 15b.xml
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Johdatus ohjelmointiin 1\Koodit\Harjoitus 15b\obj\Debug\Harjoitus 15b.vbproj.AssemblyReference.cache
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Johdatus ohjelmointiin 1\Koodit\Harjoitus 15b\obj\Debug\Harjoitus_15b.Form1.resources
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Johdatus ohjelmointiin 1\Koodit\Harjoitus 15b\obj\Debug\Harjoitus_15b.Resources.resources
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Johdatus ohjelmointiin 1\Koodit\Harjoitus 15b\obj\Debug\Harjoitus 15b.vbproj.GenerateResource.cache
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Johdatus ohjelmointiin 1\Koodit\Harjoitus 15b\obj\Debug\Harjoitus 15b.vbproj.CoreCompileInputs.cache
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Johdatus ohjelmointiin 1\Koodit\Harjoitus 15b\obj\Debug\Harjoitus 15b.exe
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Johdatus ohjelmointiin 1\Koodit\Harjoitus 15b\obj\Debug\Harjoitus 15b.xml
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Johdatus ohjelmointiin 1\Koodit\Harjoitus 15b\obj\Debug\Harjoitus 15b.pdb
