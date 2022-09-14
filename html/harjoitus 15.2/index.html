@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+
+<div class="w3-container w3-teal">
+  <h1>Jopen autovuokraus Oy</h1>
+</div>
+
+<dic class="w3-bar w3-red">
+<a href="#" class="w3-bar-item w3-button">Etusivu</a>
+<a href="#tesla" class="w3-bar-item w3-button">Tesla</a>
+<a href="#skoda" class="w3-bar-item w3-button">Skoda</a>
+<a href="#bmw" class="w3-bar-item w3-button">Bmw</a>
+
+
+
+<div class="w3-container w3-gray" id="tesla">
+<p>Tesla 2022. Hinta 100 euroa päivä / 700 euroa viikko!</p>
+<img src="tesla.jpg" class="w3-round" alt="paku" style="width:100%">
+
+
+<div class="w3-container w3-gray" id="skoda">
+ <br>
+<img src="skoda.jpg" class="w3-round" alt="Skoda" style="width:100%">
+<p>Hieno toimiva auto myyntiin uuden tieltä</p>
+</div>
+
+
+<div class="w3-container w3-gray" id="bmw">
+ <br>
+<img src="bmw.jpg" class="w3-round" alt="Bmw" style="width:100%">
+<p> Nyt vain 20000 euroa.
+<br><span class="w3-badge w3-xlarge v3-padding v3-red">Ale-20%</span>
+</p>
+</div>
+
+
+
+
+
+
+
+
+
+<div class="w3-container w3-purple">
+  <p>Ota yhteyttä 045123456789</p>
+</div>
+
+
+
+<h2 class="w3-center">Myynnissä olevat autot</h2>
+
+<div class="w3-content w3-display-container">
+  <img class="mySlides" src="tesla.jpg" style="width:100%">
+  <img class="mySlides" src="skoda.jpg" style="width:100%">
+  <img class="mySlides" src="bmw.jpg" style="width:100%">
+  <img class="mySlides" src="paku.jpg" style="width:100%">
+
+  <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+  <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
+</div>
+
+<script>
+var slideIndex = 1;
+showDivs(slideIndex);
+
+function plusDivs(n) {
+  showDivs(slideIndex += n);
+}
+
+function showDivs(n) {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  if (n > x.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = x.length}
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  x[slideIndex-1].style.display = "block";  
+}
+</script>
+
+
+
+</body>
+</html> 

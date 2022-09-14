@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta  charset="utf-8">
+<title>Otsikko</title>
+
+<script>
+
+function painallus() {
+let sekaluku = document.getElementById("txteka").value;
+let stokaluku = document.getElementById("txttoka").value;
+let ieka = parseInt(sekaluku);
+let itoka = parseInt(stokaluku);
+let iyht = ieka + itoka;
+
+
+document.getElementById("tulostusalue").innerHTML = iyht;
+};
+
+
+</script>
+
+
+</head>
+<body>
+
+
+
+<h1>Harjoitus 8, Javascript 3</h1>
+
+<form name="lomake">
+	<input type="text" id="txteka"><br>
+<input type="text" id="txttoka"><br>
+	<input type="button" onclick="painallus();" value="Suorita">
+</form>
+
+<p id="tulostusalue">tähän tulee tulos</p>
+
+</body>
+</html>
