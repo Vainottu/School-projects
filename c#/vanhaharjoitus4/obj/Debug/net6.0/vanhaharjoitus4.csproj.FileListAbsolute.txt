@@ -1,0 +1,15 @@
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\vanhaharjoitus4\bin\Debug\net6.0\vanhaharjoitus4.exe
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\vanhaharjoitus4\bin\Debug\net6.0\vanhaharjoitus4.deps.json
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\vanhaharjoitus4\bin\Debug\net6.0\vanhaharjoitus4.runtimeconfig.json
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\vanhaharjoitus4\bin\Debug\net6.0\vanhaharjoitus4.dll
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\vanhaharjoitus4\bin\Debug\net6.0\vanhaharjoitus4.pdb
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\vanhaharjoitus4\obj\Debug\net6.0\vanhaharjoitus4.csproj.AssemblyReference.cache
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\vanhaharjoitus4\obj\Debug\net6.0\vanhaharjoitus4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\vanhaharjoitus4\obj\Debug\net6.0\vanhaharjoitus4.AssemblyInfoInputs.cache
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\vanhaharjoitus4\obj\Debug\net6.0\vanhaharjoitus4.AssemblyInfo.cs
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\vanhaharjoitus4\obj\Debug\net6.0\vanhaharjoitus4.csproj.CoreCompileInputs.cache
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\vanhaharjoitus4\obj\Debug\net6.0\vanhaharjoitus4.dll
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\vanhaharjoitus4\obj\Debug\net6.0\refint\vanhaharjoitus4.dll
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\vanhaharjoitus4\obj\Debug\net6.0\vanhaharjoitus4.pdb
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\vanhaharjoitus4\obj\Debug\net6.0\vanhaharjoitus4.genruntimeconfig.cache
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\vanhaharjoitus4\obj\Debug\net6.0\ref\vanhaharjoitus4.dll
