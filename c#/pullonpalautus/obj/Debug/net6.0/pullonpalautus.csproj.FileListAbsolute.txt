@@ -1,0 +1,15 @@
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\pullonpalautus\obj\Debug\net6.0\pullonpalautus.csproj.AssemblyReference.cache
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\pullonpalautus\obj\Debug\net6.0\pullonpalautus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\pullonpalautus\obj\Debug\net6.0\pullonpalautus.AssemblyInfoInputs.cache
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\pullonpalautus\obj\Debug\net6.0\pullonpalautus.AssemblyInfo.cs
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\pullonpalautus\obj\Debug\net6.0\pullonpalautus.csproj.CoreCompileInputs.cache
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\pullonpalautus\bin\Debug\net6.0\pullonpalautus.exe
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\pullonpalautus\bin\Debug\net6.0\pullonpalautus.deps.json
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\pullonpalautus\bin\Debug\net6.0\pullonpalautus.runtimeconfig.json
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\pullonpalautus\bin\Debug\net6.0\pullonpalautus.dll
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\pullonpalautus\bin\Debug\net6.0\pullonpalautus.pdb
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\pullonpalautus\obj\Debug\net6.0\pullonpalautus.dll
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\pullonpalautus\obj\Debug\net6.0\refint\pullonpalautus.dll
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\pullonpalautus\obj\Debug\net6.0\pullonpalautus.pdb
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\pullonpalautus\obj\Debug\net6.0\pullonpalautus.genruntimeconfig.cache
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\pullonpalautus\obj\Debug\net6.0\ref\pullonpalautus.dll

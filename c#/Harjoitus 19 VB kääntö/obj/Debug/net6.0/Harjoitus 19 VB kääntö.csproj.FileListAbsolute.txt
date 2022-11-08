@@ -1,0 +1,15 @@
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\Harjoitus 19 VB kääntö\bin\Debug\net6.0\Harjoitus 19 VB kääntö.exe
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\Harjoitus 19 VB kääntö\bin\Debug\net6.0\Harjoitus 19 VB kääntö.deps.json
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\Harjoitus 19 VB kääntö\bin\Debug\net6.0\Harjoitus 19 VB kääntö.runtimeconfig.json
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\Harjoitus 19 VB kääntö\bin\Debug\net6.0\Harjoitus 19 VB kääntö.dll
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\Harjoitus 19 VB kääntö\bin\Debug\net6.0\Harjoitus 19 VB kääntö.pdb
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\Harjoitus 19 VB kääntö\obj\Debug\net6.0\Harjoitus 19 VB kääntö.csproj.AssemblyReference.cache
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\Harjoitus 19 VB kääntö\obj\Debug\net6.0\Harjoitus 19 VB kääntö.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\Harjoitus 19 VB kääntö\obj\Debug\net6.0\Harjoitus 19 VB kääntö.AssemblyInfoInputs.cache
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\Harjoitus 19 VB kääntö\obj\Debug\net6.0\Harjoitus 19 VB kääntö.AssemblyInfo.cs
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\Harjoitus 19 VB kääntö\obj\Debug\net6.0\Harjoitus 19 VB kääntö.csproj.CoreCompileInputs.cache
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\Harjoitus 19 VB kääntö\obj\Debug\net6.0\Harjoitus 19 VB kääntö.dll
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\Harjoitus 19 VB kääntö\obj\Debug\net6.0\refint\Harjoitus 19 VB kääntö.dll
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\Harjoitus 19 VB kääntö\obj\Debug\net6.0\Harjoitus 19 VB kääntö.pdb
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\Harjoitus 19 VB kääntö\obj\Debug\net6.0\Harjoitus 19 VB kääntö.genruntimeconfig.cache
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\Harjoitus 19 VB kääntö\obj\Debug\net6.0\ref\Harjoitus 19 VB kääntö.dll
