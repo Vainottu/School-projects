@@ -1,0 +1,15 @@
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\Harjoitus 3-1\bin\Debug\net6.0\Harjoitus 3-1.exe
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\Harjoitus 3-1\bin\Debug\net6.0\Harjoitus 3-1.deps.json
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\Harjoitus 3-1\bin\Debug\net6.0\Harjoitus 3-1.runtimeconfig.json
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\Harjoitus 3-1\bin\Debug\net6.0\Harjoitus 3-1.dll
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\Harjoitus 3-1\bin\Debug\net6.0\Harjoitus 3-1.pdb
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\Harjoitus 3-1\obj\Debug\net6.0\Harjoitus 3-1.csproj.AssemblyReference.cache
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\Harjoitus 3-1\obj\Debug\net6.0\Harjoitus 3-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\Harjoitus 3-1\obj\Debug\net6.0\Harjoitus 3-1.AssemblyInfoInputs.cache
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\Harjoitus 3-1\obj\Debug\net6.0\Harjoitus 3-1.AssemblyInfo.cs
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\Harjoitus 3-1\obj\Debug\net6.0\Harjoitus 3-1.csproj.CoreCompileInputs.cache
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\Harjoitus 3-1\obj\Debug\net6.0\Harjoitus 3-1.dll
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\Harjoitus 3-1\obj\Debug\net6.0\refint\Harjoitus 3-1.dll
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\Harjoitus 3-1\obj\Debug\net6.0\Harjoitus 3-1.pdb
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\Harjoitus 3-1\obj\Debug\net6.0\Harjoitus 3-1.genruntimeconfig.cache
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\Harjoitus 3-1\obj\Debug\net6.0\ref\Harjoitus 3-1.dll
