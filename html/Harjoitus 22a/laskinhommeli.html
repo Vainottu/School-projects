@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta  charset="utf-8">
+<title>Sähkölaskun laskeminen</title>
+
+<script>
+
+
+function painallus1() {
+let sEkaLuku = document.getElementById("txtEka").value;
+let sTokaLuku = document.getElementById("txtToka").value;
+
+let sKolmasLuku = document.getElementById("txtkolmas").value;
+let sNeljäsLuku = document.getElementById("txtneljäs").value;
+let sViidesLuku = document.getElementById("txtviides").value;
+let sKuudesLuku = document.getElementById("txtkuudes").value;
+let sSeitsemäsLuku = document.getElementById("txtseitsemäs").value;
+let sKahdeksasLuku = document.getElementById("txtkahdeksas").value;
+let sYhdeksäsLuku = document.getElementById("txtyhdeksäs").value;
+
+let iEka = parseInt(sEkaLuku);
+let iToka = parseInt(sTokaLuku);
+let ikolmas = parseInt(sKolmasLuku);
+let ineljäs = parseInt(sNeljäsLuku);
+let iviides = parseInt(sViidesLuku);
+let ikuudes = parseInt(sKuudesLuku);
+let iseitsemäs = parseInt(sSeitsemäsLuku);
+let ikahdeksas = parseInt(sKahdeksasLuku);
+let iYht = (ieka * ikolmas) + (itoka * ineljäs) + iviides + ikuudes + (iseitsemäs * ikolmas) + (iseitsemäs * ineljäs) + ikahdeksas;
+document.getElementById("tulostusalue").innerHTML = iYht;
+};
+
+
+function painallus2() {
+let s10 = document.getElementById("txt10").value;
+let s11 = document.getElementById("txt11").value;
+let s12 = document.getElementById("txt12").value;
+let s13 = document.getElementById("txt13").value;
+let s14 = document.getElementById("txt14").value;
+let s15 = document.getElementById("txt15").value;
+let s16 = document.getElementById("txt16").value;
+let s17 = document.getElementById("txt17").value;
+let s18 = document.getElementById("txt18").value;
+
+let i1 = parseInt(s10);
+let i2 = parseInt(s11);
+let i3 = parseInt(s12);
+let i4 = parseInt(s13);
+let i5 = parseInt(s14);
+let i6 = parseInt(s15);
+let i7 = parseInt(s16);
+let i8 = parseInt(s17);
+let i9 = i1 + i2;
+document.getElementById("tulostusalue2").innerHTML = i9;
+};
+</script>
+
+</head>
+<body>
+
+<h1>Sähkölaskun laskeminen talvelle 2022</h1>
+<br>
+<br>
+
+<h3>Nykyhetki</h3>
+<form name="lomake">
+  Päivä hinta:&emsp;&emsp;&ensp;<input type="text" id="txtEka"><br>
+  Yö hinta:&emsp;&emsp;&emsp;&ensp;<input type="text" id="txtToka"><br>
+
+  EnergiaPV:&emsp;&emsp;&emsp;<input type="text" id="txtkolmas"><br>
+  EnergiaYÖ:&emsp;&emsp;&emsp;<input type="text" id="txtneljäs"><br>
+  Perusmaksu:&emsp;&emsp;&ensp;<input type="text" id="txtviides"><br>
+
+  Sulakemaksu:&emsp;&emsp;<input type="text" id="txtkuudes"><br>
+  Jakelumaksu pv:&emsp;<input type="text" id="txtseitsemäs"><br>
+
+  Jakelumaksu yö:&emsp;<input type="text" id="txtkahdeksas"><br>
+  Energiavero:&emsp;&emsp;&ensp;<input type="text" id="txtyhdeksäs"><br>
+
+ <br> &emsp;&emsp;<input type="button" onclick="painallus1();" value="Suorita">
+ <p id="tulostusalue">tähän tulee tulos</p>
+</form>
+
+<h3>Viimevuonna samaanaikaan</h3>
+<form name="Lomakeedvuosi">
+
+  Päivä hinta:&emsp;&emsp;&ensp;<input type="text" id="txt10"><br>
+  Yö hinta:&emsp;&emsp;&emsp;&ensp;<input type="text" id="tx11"><br>
+
+  EnergiaPV:&emsp;&emsp;&emsp;<input type="text" id="txt12"><br>
+  EnergiaYÖ:&emsp;&emsp;&emsp;<input type="text" id="txt13"><br>
+  Perusmaksu:&emsp;&emsp;&ensp;<input type="text" id="txt14"><br>
+
+  Sulakemaksu:&emsp;&emsp;<input type="text" id="txt15"><br>
+  Jakelumaksu pv:&emsp;<input type="text" id="txt16"><br>
+
+  Jakelumaksu yö:&emsp;<input type="text" id="txt17"><br>
+  Energiavero:&emsp;&emsp;&ensp;<input type="text" id="txt18"><br>
+
+ <br> &emsp;&emsp;<input type="button" onclick="painallus2();" value="Suorita">
+</form>
+
+
+
+
+<p id="tulostusalue2">tähän tulee tulos</p>
+</body>
+</html>

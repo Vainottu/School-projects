@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Sähkölaskun laskeminen</title>
+
+<script>
+
+function Laske() {
+    //SOPIMUSKAUSI S1
+
+    let fkWhEnergiaS1 = parseFloat(document.getElementById("kwhEnergiaS1").value);
+    let fkwhHintaS1 = parseFloat(document.getElementById("kwhHintaS1").value);
+
+    let fPerusmaksuS1 = parseFloat(document.getElementById("PerusmaksuS1").value);
+    let fSulakemaksuS1 = parseFloat(document.getElementById("SulakemaksuS1").value);
+    let fJakelumaksukwhS1 = parseFloat(document.getElementById("JakelumaksukwhS1").value);
+    let fEnergiaverokwhS1 = parseFloat(document.getElementById("EnergiaverokwhS1").value);
+
+    let fEnergiaHintaS1 = fkWhEnergiaS1 * fkwhHintaS1;
+    let fJakelumaksuHintaS1 = fkWhEnergiaS1 * fJakelumaksukwhS1;
+    let fEnergiaverotS1 = fkWhEnergiaS1 * fEnergiaverokwhS1;
+    let fHintaYhtS1 = fEnergiaHintaS1 + fJakelumaksuHintaS1 + fEnergiaverotS1 + fPerusmaksuS1 + fSulakemaksuS1;
+
+    let sYhteenvetoS1 = "Perusmaksu: " + fPerusmaksuS1.toFixed(2) + " EUR <br> Sulakemaksu: " + fSulakemaksuS1.toFixed(2) + " EUR <br> Jakelumaksu: " + fJakelumaksuHintaS1.toFixed(2) + "EUR <br> Energiaverot: " + fEnergiaverotS1.toFixed(2) + " EUR <br>  Yhteensä: "  + fHintaYhtS1.toFixed(2); 
+
+    //Lasketaan S2
+
+let fkwhEnergiaS2 = fkWhEnergiaS1;
+let fkwhHintaS2 = parseFloat(document.getElementById("kwhHintaS2").value);
+
+let fPerusmaksuS2 = fPerusmaksuS1;
+let fSulakemaksuS2 = fSulakemaksuS1;
+let fjakelumaksukwhS2 = fJakelumaksukwhS1;
+let fEnergiaverokwhS2 = fEnergiaverokwhS1;
+
+let fEnergiahintaS2 = fkwhEnergiaS2 * fkwhHintaS2;
+let fjakelumaksuHintaS2 = fkwhEnergiaS2 * fjakelumaksukwhS2;
+let fEnergiaverotS2 = fkwhEnergiaS2 * fEnergiaverokwhS2;
+let fHintayhtS2 = fEnergiahintaS2 + fjakelumaksuHintaS2 + fEnergiaverotS2 + fPerusmaksuS2 + fSulakemaksuS2;
+
+let fHintErotus = fHintayhtS2 - fHintaYhtS1;
+
+let sYhteenvetoS2 = "Perusmaksu: " + fPerusmaksuS2.toFixed(2) + " EUR <br> Sulakemaksu: " + fSulakemaksuS2.toFixed(2) + " EUR <br> Energia: " + fEnergiahintaS2.toFixed(2) + " EUR <br> Jakelumaksu: " + fjakelumaksuHintaS2.toFixed(2) + " EUR <br> Energiaveort: " + fEnergiaverotS2.toFixed(2) + " EUR  <br> Yhteensä: " + fHintayhtS2.toFixed(2);
+
+document.getElementById("tulostusalue").innerHTML = "<h2>Laskelma S1:</h2>" + sYhteenvetoS1 + "<h2>Laskelma S2:</h2>" + sYhteenvetoS2 + "<h3>Erotus: <h/3>" + fHintErotus.toFixed(2) + " EUR"
+
+};
+</script>
+    </head>
+<body>
+    <h1>Sähkölaskun vertailu</h1>
+
+    <h2>Sopimuskausi 2022/01</h2>
+    <form name="lomake">
+        kwh energia:<input type="number" id="kwhEnergiaS1" value="2800"><br>
+        kwh hinta:<input type="number" id="kwhHintaS1" value="0.06"><br>
+        Perusmaksu:<input type="number" id="PerusmaksuS1" value="3.5"><br>
+        Sulakemaksu:<input type="number" id="SulakemaksuS1" value="25.95"><br><br>
+        Jakelumaksu/kwh:<input type="number" id="JakelumaksukwhS1" value="0.0367"><br><br>
+        Energiaverot/kwh:<input type="number" id="EnergiaverokwhS1" value="0.0279372"><br>
+
+        <h2>Sopimuskausi 2022/12</h2>
+        kwh hinta: <input type="number" id="kwhHintaS2" value="0.30"><br><br>
+
+        <input type="button" onclick="Laske()" value="Laske">
+    </form>
+
+    <p id="tulostusalue">Tähän tulee tulos</p>
+</body>
+</html>
