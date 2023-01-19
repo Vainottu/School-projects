@@ -1,0 +1,15 @@
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\ottov2\bin\Debug\net6.0\ottov2.exe
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\ottov2\bin\Debug\net6.0\ottov2.deps.json
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\ottov2\bin\Debug\net6.0\ottov2.runtimeconfig.json
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\ottov2\bin\Debug\net6.0\ottov2.dll
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\ottov2\bin\Debug\net6.0\ottov2.pdb
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\ottov2\obj\Debug\net6.0\ottov2.csproj.AssemblyReference.cache
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\ottov2\obj\Debug\net6.0\ottov2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\ottov2\obj\Debug\net6.0\ottov2.AssemblyInfoInputs.cache
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\ottov2\obj\Debug\net6.0\ottov2.AssemblyInfo.cs
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\ottov2\obj\Debug\net6.0\ottov2.csproj.CoreCompileInputs.cache
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\ottov2\obj\Debug\net6.0\ottov2.dll
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\ottov2\obj\Debug\net6.0\refint\ottov2.dll
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\ottov2\obj\Debug\net6.0\ottov2.pdb
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\ottov2\obj\Debug\net6.0\ottov2.genruntimeconfig.cache
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\ottov2\obj\Debug\net6.0\ref\ottov2.dll
