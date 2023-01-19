@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "harj18 vbconverted/1.0.0": {
+        "runtime": {
+          "harj18 vbconverted.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "harj18 vbconverted/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

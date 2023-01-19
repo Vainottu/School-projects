@@ -1,0 +1,15 @@
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\harj18 vbconverted\obj\Debug\net6.0\harj18 vbconverted.csproj.AssemblyReference.cache
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\harj18 vbconverted\obj\Debug\net6.0\harj18 vbconverted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\harj18 vbconverted\obj\Debug\net6.0\harj18 vbconverted.AssemblyInfoInputs.cache
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\harj18 vbconverted\obj\Debug\net6.0\harj18 vbconverted.AssemblyInfo.cs
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\harj18 vbconverted\obj\Debug\net6.0\harj18 vbconverted.csproj.CoreCompileInputs.cache
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\harj18 vbconverted\bin\Debug\net6.0\harj18 vbconverted.exe
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\harj18 vbconverted\bin\Debug\net6.0\harj18 vbconverted.deps.json
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\harj18 vbconverted\bin\Debug\net6.0\harj18 vbconverted.runtimeconfig.json
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\harj18 vbconverted\bin\Debug\net6.0\harj18 vbconverted.dll
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\harj18 vbconverted\bin\Debug\net6.0\harj18 vbconverted.pdb
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\harj18 vbconverted\obj\Debug\net6.0\harj18 vbconverted.dll
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\harj18 vbconverted\obj\Debug\net6.0\refint\harj18 vbconverted.dll
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\harj18 vbconverted\obj\Debug\net6.0\harj18 vbconverted.pdb
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\harj18 vbconverted\obj\Debug\net6.0\harj18 vbconverted.genruntimeconfig.cache
+C:\Users\jalop\iCloudDrive\Koodausta\Koulujutut\Ohelmointi 1, c#\harj18 vbconverted\obj\Debug\net6.0\ref\harj18 vbconverted.dll
